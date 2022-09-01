@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucianoGandin
 - 👀 I’m interested in Education
 - 🌱 I’m currently learning Photoshop
-- 💞️ I’m looking to collaborate on seed
+- 💞️ I’m looking to collaborate on SEED
 - 📫 How to reach me m.luciano@escola.pr.gov.br
 
 <!---
